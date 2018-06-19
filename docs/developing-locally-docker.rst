@@ -115,6 +115,7 @@ Consider the aforementioned ``.envs/.local/.postgres``: ::
 
     # PostgreSQL
     # ------------------------------------------------------------------------------
+    POSTGRES_HOST=postgres
     POSTGRES_DB=<your project slug>
     POSTGRES_USER=XgOWtQtJecsAbaIyslwGvFvPawftNaqO
     POSTGRES_PASSWORD=***REMOVED***
